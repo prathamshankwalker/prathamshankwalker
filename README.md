@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratham Shankwalker</h1>
 <h3 align="center">A passionate Computer Science and Engineering Student and an AI/ML enthusiast</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamshankwalker" alt="prathamshankwalker" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamshankwalker" alt="prathamshankwalker" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, TensorFlow **
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/prathamshankwalker/Pojects-and-Work](https://github.com/prathamshankwalker/Pojects-and-Work)
 
 - 💬 Ask me about **TensorFlow ,Python, C++**
 
