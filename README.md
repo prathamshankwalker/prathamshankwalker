@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham Shankwalker</h1>
 <h3 align="center">A passionate Computer Science and Engineering Student and AI/ML enthusiast </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamshankwalker" alt="prathamshankwalker" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
