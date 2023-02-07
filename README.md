@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham Shankwalker</h1>
 <h3 align="center">A passionate Computer Science and Engineering Student and an AI/ML enthusiast</h3>
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m currently learning <b>Machine Learning, Deep Learning</b>
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/prathamshankwalker/Pojects-and-Work](https://github.com/prathamshankwalker/Pojects-and-Work)
 
@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/pratham-shankwalker-ab2899205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-shankwalker-ab2899205" height="30" width="40" /></a>
 <a href="https://kaggle.com/prathamshankwalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathamshankwalker" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pshankwalker23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pshankwalker23" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
