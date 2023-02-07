@@ -3,11 +3,12 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prathamshankwalker/Pojects-and-Work](https://github.com/prathamshankwalker/Pojects-and-Work)
+- 👨‍💻 All of my personal projects are available at [https://github.com/prathamshankwalker/Pojects-and-Work](https://github.com/prathamshankwalker/Pojects-and-Work)
+- Group Projects Have Separate repositories.
 
 - 💬 Ask me about **TensorFlow ,Python, C++**
 
-- 📫 How to reach me **pshankwalker1@gmail.com**
+- 📫 How to reach me : **pshankwalker1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
