@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science and Engineering Student and an AI/ML enthusiast</h3>
 - 🌱 I’m currently learning <b>Machine Learning, Deep Learning</b>
 
-- 👨‍💻 All of my personal projects are available at [https://github.com/prathamshankwalker/Pojects-and-Work](https://github.com/prathamshankwalker/Projects-and-Work)
+- 👨‍💻 All of my personal projects are available at [https://github.com/prathamshankwalker/Projects-and-Work](https://github.com/prathamshankwalker/Projects-and-Work)
 
 - 👨‍💻 Group Projects have separate repositories [https://github.com/prathamshankwalker/](https://github.com/prathamshankwalker/)
 
