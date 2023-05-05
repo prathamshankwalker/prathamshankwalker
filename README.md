@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Computer Science and Engineering Student and an AI/ML enthusiast</h3>
 - 🌱 I’m currently learning <b>Machine Learning, Deep Learning</b>
 
-- 👨‍💻 All of my personal projects are available at [https://github.com/prathamshankwalker/Projects-and-Work](https://github.com/prathamshankwalker/Projects-and-Work)
+- Google Certified TensorFlow Developer [View Credentials](https://scl.io/NIk4kw6)
 
-- 👨‍💻 Group Projects have separate repositories [https://github.com/prathamshankwalker/](https://github.com/prathamshankwalker/)
+- 👨‍💻 All of my personal projects are available at [https://github.com/prathamshankwalker/Projects-and-Work](https://github.com/prathamshankwalker/Projects-and-Work)
 
 - 💬 Ask me about **Data Science, TensorFlow ,Python, C++**
 
