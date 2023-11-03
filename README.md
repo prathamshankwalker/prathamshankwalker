@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pratham Shankwalker</h1>
 <h3 align="center">A passionate Computer Science and Engineering Student and an AI/ML enthusiast</h3>
-- 🌱 I’m currently learning <b>Machine Learning, Deep Learning</b>
+- 🌱 Currently exploring the world of AI/ML/DL to solve real world problems!</b>
 
-- Google Certified TensorFlow Developer [View Credentials](https://scl.io/NIk4kw6)
+- Lead - Google Developer Student Clubs - Goa College Of Engineering
+- Google Certified TensorFlow Developer - Deep Learning [View Credentials](https://scl.io/NIk4kw6)
+- Google Cloud Computing Foundations and Generative AI profile (GCP)[view profile](https://www.cloudskillsboost.google/public_profiles/3ce84d83-105e-4064-ab5e-af7108df9261)
+- Links to all my projects are available at [https://github.com/prathamshankwalker/Projects-and-Work](https://github.com/prathamshankwalker/Projects-and-Work)
 
-- 👨‍💻 All of my personal projects are available at [https://github.com/prathamshankwalker/Projects-and-Work](https://github.com/prathamshankwalker/Projects-and-Work)
-
-- 💬 Ask me about **Data Science, TensorFlow ,Python, C++**
+- 💬 Ask me about **Data Science, TensorFlow, Deep Learning, Machine Learning, AI ,Python, C++**
 
 - 📫 How to reach me **pshankwalker1@gmail.com**
 
